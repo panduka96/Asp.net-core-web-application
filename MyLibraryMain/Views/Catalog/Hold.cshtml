@@ -1,0 +1,35 @@
+﻿@model  MyLibraryMain.Models.Checkouts.CheckoutModel
+
+@{
+    ViewData["Title"] = "Hold";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Hold</h2>
+
+<div class="row">
+
+    <div class="col-lg-3">
+        <h4>@Model.Title</h4>
+        <img src="@Model.ImageUrl" />
+    </div>
+
+    <div class="col-lg-9">
+
+        <p>There are currenlty @Model.HoldCount holds in the queue for this item.</p>
+
+        @using (Html.BeginForm("PlaceHold","Catalog",FormMethod.Post))
+        {
+            @Html.HiddenFor(a => a.AssetId)
+
+            <div>
+                Please insert a library card Id
+                @Html.TextBoxFor(a => a.LibraryCardId)
+            </div>
+            <div>
+                <button type="submit" class="btn btn-info btn-lg">Place Hold</button>
+            </div>
+        }
+    </div>
+
+</div>
