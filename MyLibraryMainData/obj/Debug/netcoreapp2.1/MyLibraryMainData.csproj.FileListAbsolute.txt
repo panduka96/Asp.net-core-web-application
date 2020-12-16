@@ -1,0 +1,11 @@
+C:\Users\Panduka Wijekoon\source\repos\MyLibraryMainData\bin\Debug\netcoreapp2.1\MyLibraryMainData.deps.json
+C:\Users\Panduka Wijekoon\source\repos\MyLibraryMainData\bin\Debug\netcoreapp2.1\MyLibraryMainData.runtimeconfig.json
+C:\Users\Panduka Wijekoon\source\repos\MyLibraryMainData\bin\Debug\netcoreapp2.1\MyLibraryMainData.runtimeconfig.dev.json
+C:\Users\Panduka Wijekoon\source\repos\MyLibraryMainData\bin\Debug\netcoreapp2.1\MyLibraryMainData.dll
+C:\Users\Panduka Wijekoon\source\repos\MyLibraryMainData\bin\Debug\netcoreapp2.1\MyLibraryMainData.pdb
+C:\Users\Panduka Wijekoon\source\repos\MyLibraryMainData\obj\Debug\netcoreapp2.1\MyLibraryMainData.csproj.CoreCompileInputs.cache
+C:\Users\Panduka Wijekoon\source\repos\MyLibraryMainData\obj\Debug\netcoreapp2.1\MyLibraryMainData.AssemblyInfoInputs.cache
+C:\Users\Panduka Wijekoon\source\repos\MyLibraryMainData\obj\Debug\netcoreapp2.1\MyLibraryMainData.AssemblyInfo.cs
+C:\Users\Panduka Wijekoon\source\repos\MyLibraryMainData\obj\Debug\netcoreapp2.1\MyLibraryMainData.dll
+C:\Users\Panduka Wijekoon\source\repos\MyLibraryMainData\obj\Debug\netcoreapp2.1\MyLibraryMainData.pdb
+C:\Users\Panduka Wijekoon\source\repos\MyLibraryMainData\obj\Debug\netcoreapp2.1\MyLibraryMainData.csprojAssemblyReference.cache
